@@ -209,7 +209,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Original Author
 
-Based on wardviaene/docker-demo repository
+Used wardviaene/docker-demo repository For reference
 
 ---
 
